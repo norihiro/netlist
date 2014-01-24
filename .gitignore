@@ -1,0 +1,16 @@
+*~
+.*.swp
+/config/
+/autom4te.cache/
+/config.h
+/config.hin
+/aclocal.m4
+/configure
+Makefile.in
+*.o
+tags
+.deps/
+*.log
+*.status
+stamp-h1
+Makefile

@@ -1,0 +1,11 @@
+A SPICE netlist converter
+
+This program converts netlist description into other languages.
+It is currently under development and supports only these formats;
+Inputs
+ - Calibre CDL format (output by v2lvs)
+Outputs
+ - HSPICE netlist
+We are planning to support various formats;
+ - VerilogHDL netlist output from IC Compiler
+
